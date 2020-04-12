@@ -2,7 +2,7 @@ baseURL = "https://blog.jirkachadima.cz/"
 languageCode = "en-us"
 title = "Blog was not built in a day"
 theme = "hugo-cactus-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-47993506-2"
 
 [params]
   name = "Jirka Chadima"
