@@ -1,0 +1,1 @@
+https://jirkachadima.substack.com/
